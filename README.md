@@ -6,7 +6,7 @@ Restaurant is an assignement from The Odin Project to manipulate DOM elements us
 
 
 ## Links
-[Live preview](https://odin-library-gamma.vercel.app/)
+[Live preview](https://odin-restaurant-mk.vercel.app/)
 
 
 ## Contribution
